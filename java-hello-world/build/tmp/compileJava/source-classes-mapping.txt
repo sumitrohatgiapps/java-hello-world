@@ -1,0 +1,4 @@
+io/reflectoring/awshelloworld/HelloWorldController.java
+ io.reflectoring.awshelloworld.HelloWorldController
+io/reflectoring/awshelloworld/AwsHelloWorldApplication.java
+ io.reflectoring.awshelloworld.AwsHelloWorldApplication

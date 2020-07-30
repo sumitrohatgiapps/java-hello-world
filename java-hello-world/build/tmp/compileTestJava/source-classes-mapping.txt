@@ -1,0 +1,2 @@
+io/reflectoring/awshelloworld/AwsHelloWorldApplicationTests.java
+ io.reflectoring.awshelloworld.AwsHelloWorldApplicationTests
